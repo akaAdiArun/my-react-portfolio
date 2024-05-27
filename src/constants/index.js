@@ -40,7 +40,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "1650 Tasco Close, Victoria, BC, V8N 5P2, Canada",
+  address: "Victoria, BC, Canada",
   phoneNo: "+1 (250) 884-4906",
   email: "adithyakrishna10000@gmail.com",
 };
