@@ -1,5 +1,3 @@
-# React + Vite
-
 # Adithyakrishna Arunkumar's Portfolio
 
 Welcome to my portfolio! This project showcases my skills and projects as a Full-stack Developer. It is built using modern web development technologies for fast and efficient performance.
